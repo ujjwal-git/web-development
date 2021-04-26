@@ -4,6 +4,6 @@
 Hi Developers
 
 New developer here!
-This is another just practice project.
+This is just another practice project.
 
 Thanks!!!
